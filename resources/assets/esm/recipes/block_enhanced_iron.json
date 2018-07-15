@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        "III",
+        "III"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "esm:ingot_enhanced_iron"
+        }
+    },
+    
+    "result":
+    {
+        "item": "esm:block_enhanced_iron",
+        "count": 1
+    }
+}

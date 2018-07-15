@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " I ",
+        " I ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "esm:ingot_enhanced_gold"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "esm:sword_enhanced_gold",
+        "count": 1
+    }
+}
