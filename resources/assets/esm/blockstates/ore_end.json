@@ -1,0 +1,6 @@
+{
+    "variants":
+    {
+        "variant=lechatelierite": {"model": "esm:ore_end_lechatelierite" }
+    }
+}
