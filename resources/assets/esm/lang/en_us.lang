@@ -1,0 +1,45 @@
+itemGroup.enhancedstufftab=Enhanced Stuff Tab
+
+container.charged_furnace=Charged Furnace
+
+item.lechatelierite.name=Lechatelierite
+item.lechatelierite_dust.name=Lechatelierite Dust
+item.ingot_enhanced_iron.name=Enhanced Iron Ingot
+item.enhanced_diamond.name=Enhanced Diamond
+item.ingot_enhanced_gold.name=Enhanced Gold Ingot
+item.handheld_lightning_rod.name=Handheld Lightning Rod
+
+
+
+item.pickaxe_enhanced_iron.name=Enhanced Iron Pickaxe
+item.pickaxe_enhanced_diamond.name=Enhanced Diamond Pickaxe
+item.pickaxe_enhanced_gold.name=Enhanced Gold Pickaxe
+
+item.axe_enhanced_iron.name=Enhanced Iron Axe
+item.axe_enhanced_diamond.name=Enhanced Diamond Axe
+item.axe_enhanced_gold.name=Enhanced Gold Axe
+
+item.shovel_enhanced_iron.name=Enhanced Iron Shovel
+item.shovel_enhanced_diamond.name=Enhanced Diamond Shovel
+item.shovel_enhanced_gold.name=Enhanced Gold Shovel
+
+item.hoe_enhanced_iron.name=Enhanced Iron Hoe
+item.hoe_enhanced_diamond.name=Enhanced Diamond Hoe
+item.hoe_enhanced_gold.name=Enhanced Gold Hoe
+
+item.sword_enhanced_iron.name=Enhanced Iron Sword
+item.sword_enhanced_diamond.name=Enhanced Diamond Sword
+item.sword_enhanced_gold.name=Enhanced Gold Sword
+
+
+
+tile.block_enhanced_iron.name=Enhanced Iron Block
+tile.block_enhanced_gold.name=Enhanced Gold Block
+tile.block_enhanced_diamond.name=Enhanced Diamond Block
+tile.block_lechatelierite.name=Lechatelierite Block
+
+tile.ore_overworld_lechatelierite.name=Lechatelierite Ore
+tile.ore_end_lechatelierite.name=End Lechatelierite Ore
+tile.ore_nether_lechatelierite.name=Nether Lechatelierite Ore
+
+tile.charged_furnace.name=Charged Furnace

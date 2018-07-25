@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "I"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "esm:block_lechatelierite"
+        }
+    },
+    
+    "result":
+    {
+        "item": "esm:lechatelierite",
+        "count": 9
+    }
+}

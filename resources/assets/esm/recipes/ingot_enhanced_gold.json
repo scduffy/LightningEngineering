@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "I"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "esm:block_enhanced_gold"
+        }
+    },
+    
+    "result":
+    {
+        "item": "esm:ingot_enhanced_gold",
+        "count": 9
+    }
+}
