@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "II ",
+        " S ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "esm:enhanced_diamond"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "esm:hoe_enhanced_diamond",
+        "count": 1
+    }
+}
