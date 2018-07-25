@@ -3,6 +3,7 @@ package com.cdmoney765.enhancedstuff;
 import com.cdmoney765.enhancedstuff.proxy.CommonProxy;
 import com.cdmoney765.enhancedstuff.util.Reference;
 import com.cdmoney765.enhancedstuff.util.handler.ModEventHandler;
+import com.cdmoney765.enhancedstuff.util.handler.RegistryHandler;
 
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.common.Mod;
@@ -25,13 +26,13 @@ public class Main
 	@EventHandler
 	public static void PreInit(FMLPreInitializationEvent event)
 	{
-		
+		RegistryHandler.otherRegistries();
 	}
 	
 	@EventHandler
 	public static void init(FMLInitializationEvent event)
 	{
-		
+		RegistryHandler.initRegistries();
 	}
 	
 	@EventHandler

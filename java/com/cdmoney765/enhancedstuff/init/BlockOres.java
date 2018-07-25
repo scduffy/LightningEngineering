@@ -35,9 +35,15 @@ public class BlockOres extends Block implements IHasModel, IMetaName
 		setRegistryName(name);
 		setCreativeTab(CreativeTabs.BUILDING_BLOCKS);
 		setDefaultState(this.blockState.getBaseState().withProperty(VARIANT, EnumHandler.EnumType.LECHATELIERITE));
+		setHardness(3.0F); 
+		setResistance(20.0F);
 		
 		this.name = name;
 		this.dimension = dimension;
+		
+		//Changing the hardness for specific ores
+		//this.setHarvestLevel("pickaxe", 1, this.getDefaultState().withProperty(VARIANT, EnumHandler.EnumType.COPPER));
+		
 		
 		ModBlocks.BLOCKS.add(this);
 		ModItems.ITEMS.add(new ItemBlockVariants(this).setRegistryName(this.getRegistryName()));
