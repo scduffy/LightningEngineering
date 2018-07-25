@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        "III",
+        "III"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "esm:enhanced_diamond"
+        }
+    },
+    
+    "result":
+    {
+        "item": "esm:block_enhanced_diamond",
+        "count": 1
+    }
+}
